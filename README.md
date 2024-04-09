@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Front-end developer and also some other... random stuff
+- A passionate Full-Stack developer and also some other... random stuff
 - Playing Way to much minecraft at spare time
 - Currently learning Reverse Engineering by abusing google and stackoverflow 😉
 
